@@ -45,7 +45,7 @@
         --popover-foreground: 0 0% 100%;
 
         --primary: 345 85% 60%;
-        --primary-foreground: 0 0% 20%;
+        --primary-foreground: 0 0% 100%;
 
         --secondary: 45 85% 50%;
         --secondary-foreground: 0 0% 100%;
@@ -60,7 +60,7 @@
         --destructive-foreground: 0 0% 100%;
 
         --border: 240 70% 40%;
-        --input: 240 70% 40%;
+        --input: 345 85% 60%;
         --ring: 345 85% 60%;
     }
 }
