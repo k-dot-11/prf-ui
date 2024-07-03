@@ -45,7 +45,6 @@ export function MainContent() {
             toast({
                 title: "Sign in required",
                 description: "Please sign in to continue",
-                status: "error",
             });
         } else {
             mutate();
